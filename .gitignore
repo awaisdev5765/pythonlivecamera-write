@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+snapshots/
+recordings/
+run*.log
+hand_landmarker.task
+*.mp4
+*.png
+.DS_Store
